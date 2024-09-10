@@ -110,7 +110,7 @@ export default {
     try {
       const {
         PROXY_HOSTNAME,
-        PROXY_PROTOCOL = "http",
+        PROXY_PROTOCOL = "https",
         PATHNAME_REGEX,
         UA_WHITELIST_REGEX,
         UA_BLACKLIST_REGEX,
